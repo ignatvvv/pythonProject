@@ -1,5 +1,5 @@
 a = int(input())
-n = 1
+n = 2
 while a!= n and a>= n:
     n = n * 2
 if a == n:
